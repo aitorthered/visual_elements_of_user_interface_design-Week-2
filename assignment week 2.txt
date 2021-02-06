@@ -6,15 +6,19 @@ digital microscope
 an app that finds a specific food within a given area
 
 1) The name of your digital product.
+El Burro
 
 2) A short description of your project idea. The description should answer the following questions:
+El Burro is a mobile application for searching the best burrito places within a predefined radius of the current location. The application is targeted to Mexican lovers foodies, and within the search filters it allows the user to select between different criteria for the search.
 
 What is it?
 Who is it for?
 Where does it live? On a smartphone, website, computer, or...?
 3) A tagline for your project, using suitable language aligned with the intended audience.
+Find the best burrito in town!
 
 4) A description of the main activity or function of the app.
+El Burro allow the user to find the best Burrito places based on different search criteria, like vegetarian/vegan options, real mexican food or tex-mex style. The application innovative algorithm uses feedback from different sources (google maps review, yelp, it's own community) to provide accurate and excelent feedback on the search.
 
 5) A mood board containing your visual research for your project idea. Refer to page 2 of the SeeCells project for an example. The mood board should contain:
 
